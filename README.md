@@ -1,6 +1,6 @@
 # Nuclei Template
 
-I have finally decided to aport something to the IT Security field, and what a better way to do it than starting by creating templates for Nuclei (nuclei.projectdiscovery.io)
+I have finally decided to contribute something to the IT Security field, and what a better way to do it than starting by creating templates for Nuclei (nuclei.projectdiscovery.io)
 
 #### Templates
  - **CVE-2021-44848**: Thinfinity VirtualUI is a web remote desktop system, a vulnerability exist in the parameter "username" located in /changePassword that allows user enumeration, depending of the configuration of VirtualUI, the users enumerated may be part of Operating System.
